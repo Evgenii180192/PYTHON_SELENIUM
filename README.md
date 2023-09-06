@@ -1,1 +1,1 @@
-# PYTHON_SELENIUM
+This project uses technologies: Selenium, Pytest, Allure.
